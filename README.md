@@ -8,9 +8,9 @@ Ett WordPress Plugin/Widget som använder tagtider.net för att hämta aktuella 
 ##Hur använder man Pluginet?
 >Klona repot, installera via WP-Admin
 
->På WP admin pressenteras en Settings sida där man kan bestämma hur länge svaret ska camchas.
+>På WP admin pressenteras en Settings sida där man kan bestämma hur länge svaret ska cachas.
 
->Pluginet ger dig en Widget där man väljer station och om man vill hämta ankomster eller avgångar, infomationen pressenteras sedan i den sidebar där widget placerades.
+>Pluginet ger dig en Widget där du väljer station och om du vill hämta ankomster eller avgångar, infomationen pressenteras sedan i den sidebar där widgeten placerades.
 
 ##Info
 ```php

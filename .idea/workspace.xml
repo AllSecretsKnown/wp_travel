@@ -20,13 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wp_travlr.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/includes/wp_travlr.php">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="8" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.49336058">
-              <folding>
-                <marker date="1353942346000" expanded="true" signature="3070:3111" placeholder="..." />
-              </folding>
+            <state line="12" column="155" selection-start="479" selection-end="479" vertical-scroll-proportion="0.19123507">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,8 +42,8 @@
         <option value="$PROJECT_DIR$/Uninstall.php" />
         <option value="$PROJECT_DIR$/wp_travel.php" />
         <option value="$PROJECT_DIR$/widgets/wp_travel_widget.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/includes/wp_travlr.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -293,13 +291,6 @@
         <state line="9" column="35" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="6" selection-start="507" selection-end="507" vertical-scroll-proportion="0.23904383">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp_travel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="7" selection-end="195" vertical-scroll-proportion="0.032686416">
@@ -327,6 +318,13 @@
           <folding>
             <marker date="1353942346000" expanded="true" signature="3070:3111" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="155" selection-start="479" selection-end="479" vertical-scroll-proportion="0.19123507">
+          <folding />
         </state>
       </provider>
     </entry>
