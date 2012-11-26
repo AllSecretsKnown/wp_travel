@@ -91,7 +91,7 @@ class WpTravelWidget extends WP_Widget {
           Ankomster: <?php echo $instance['station']; ?>
       </div>
 
-      <table class="table table-striped">
+      <table class="wp_tt">
           <thead>
           <tr>
               <th>När?</th>
@@ -118,7 +118,7 @@ class WpTravelWidget extends WP_Widget {
 			if ( isset( $departures ) && ! empty( $departures ) ) {
 				?>
       <div class="alert alert-success">
-          Avgångar: <?php echo $instance['station']; ?>
+          <h2 class="widget_title">Avgångar: <?php echo $instance['station']; ?></h2>
       </div>
       <table class="table table-striped">
           <thead>
