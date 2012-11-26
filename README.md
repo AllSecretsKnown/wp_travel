@@ -13,6 +13,7 @@ Ett WordPress Plugin/Widget som använder tagtider.net för att hämta aktuella 
 >Pluginet ger dig en Widget där man väljer station och om man vill hämta ankomster eller avgångar, infomationen pressenteras sedan i den sidebar där widget placerades.
 
 ##Info
+```php
 	/*
 	Plugin Name: WP Travel
 	Description: Get Arrivals and Departures from your favorite station
