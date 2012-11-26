@@ -14,9 +14,9 @@ Ett WordPress Plugin/Widget som använder tagtider.net för att hämta aktuella 
 
 ##Info
 	/*
-	Plugin Name: WP Hertz Freeride
-	Description: Get all available Freerides from Hertz
+	Plugin Name: WP Travel
+	Description: Get Arrivals and Departures from your favorite station
 	Version: 1.0
 	Author: Peter Persson
-	Author URI: https://github.com/AllSecretsKnown/wp_hertz_freeride
+	Author URI: https://github.com/AllSecretsKnown/wp_travel
 	*/

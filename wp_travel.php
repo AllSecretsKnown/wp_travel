@@ -5,7 +5,7 @@ Plugin Name: WP Travel
 Description: Get Arrivals and Departures from your favorite station
 Version: 1.0
 Author: Peter Persson
-Author URI: http://www.xxx.com
+Author URI: https://github.com/AllSecretsKnown/wp_travel
 */
 define( 'WP_TRAVEL_VERSION', '1.0' );
 
