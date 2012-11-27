@@ -9,7 +9,7 @@ Author URI: https://github.com/AllSecretsKnown/wp_travel
 */
 define( 'WP_TRAVEL_VERSION', '1.0' );
 
-include_once dirname( __FILE__ ) . '/includes/travlr/travlr.php';
+include_once dirname( __FILE__ ) . '/includes/Exttravlr/travlr.php';
 include_once dirname( __FILE__ ) . '/includes/wp_travlr.php';
 include_once dirname( __FILE__ ) . '/widgets/wp_travel_widget.php';
 
